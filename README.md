@@ -1,2 +1,1 @@
-# SMARTool-data
-weekly updates on twirll work
+Data used by https://github.com/smartool/smartool-rus-eng.
