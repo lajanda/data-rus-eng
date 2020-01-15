@@ -1,4 +1,4 @@
-Lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),Lesson,
+Target language lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),Lesson,
 преподавать,2364,teach,V,A2,LM,1,преподавать,Imperf.Inf,Катя решила преподавать русский язык в школе.,Katya decided to teach Russian at a school.,_,учёба/работа,,
 преподавать,2365,teach,V,A2,LM,2,преподаёт,Imperf.Sing.3,Мой папа преподаёт философию в университете.,My father teaches philosophy at the university.,_,учёба/работа,,
 преподавать,2366,teach,V,A2,LM,3,преподают,Imperf.Plur.3,Мои родители преподают математику в школе.,My parents teach mathematics at a school.,_,учёба/работа,,

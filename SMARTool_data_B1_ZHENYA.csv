@@ -1,4 +1,4 @@
-Lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,
+Target language lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,
 краткий,3583,brief,A,B1,LM,1,краткая,Nom.Fem.Sing,Краткая биография может многое сказать о человеке.,A brief biography can tell a lot аbout person.,_,"описание, мера",,
 краткий,3584,brief,A,B1,LM,2,краткий,Nom.Masc.Sing,В начале курсовой работы приведён краткий обзор литературы.,The term paper begins with a brief literature review.,_,"описание, мера",,
 краткий,3585,brief,A,B1,LM,3,краткое,Inan.Acc.Neut.Sing,Ты читал краткое содержание этого романа?,Did you read a summary of this novel?,_,"описание, мера",,
