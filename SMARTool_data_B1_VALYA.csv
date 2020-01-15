@@ -1,4 +1,4 @@
-Target language lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,
 автобусный,2835,bus,A,B1,LM,1,автобусной,Loc.Fem.Sing,Мы будем ждать тебя на автобусной остановке.,We will wait for you at the bus stop.,_,"транспорт, путешествие",,
 автобусный,2836,bus,A,B1,LM,2,автобусного,Gen.Masc.Sing,В работе автобусного маршрута произошли изменения.,There have been changes in the operation of the bus route.,_,"транспорт, путешествие",,
 автобусный,2837,bus,A,B1,LM,3,автобусная,Nom.Fem.Sing,"Извините, где здесь автобусная остановка?","Excuse me, where is there a bus stop here?",_,"транспорт, путешествие",,

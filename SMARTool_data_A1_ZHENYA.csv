@@ -1,4 +1,4 @@
-Target language lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),Lesson,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),Lesson,
 белый,469,white,A,A1,"Golosa, MiP, LM, МН, Поехали",1,белые,Nom.Plur,У Саши красивая улыбка и белые зубы.,Sasha has a pretty smile and white teeth.,_,описание,7,
 белый,470,white,A,A1,"Golosa, MiP, LM, МН, Поехали",2,белым,Ins.Masc.Sing,Обычно я ем суп с белым хлебом.,Usually I eat soup with white bread.,_,описание,7,
 белый,471,white,A,A1,"Golosa, MiP, LM, МН, Поехали",3,белыми,Ins.Plur,Первого сентября на улицах много девочек с белыми бантами.,On September 1 a lot of girls wear white bows outside.,_,описание,7,

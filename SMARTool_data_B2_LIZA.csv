@@ -1,4 +1,4 @@
-Target language lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,
 насекомое,8003,insect,N.Neut.Anim,B2,"Golosa, LM",1,насекомых,Gen.Plur,Укусы насекомых могут вызывать аллергию.,Insect bites can cause an allergic reaction.,_,животные/растения,,
 насекомое,8004,insect,N.Neut.Anim,B2,"Golosa, LM",2,насекомые,Nom.Plur,Насекомые быстро адаптируются к новым условим.,Insects can easily adapt to new conditions.,_,животные/растения,,
 насекомое,8005,insect,N.Neut.Anim,B2,"Golosa, LM",3,насекомое,Nom.Sing,Пчела - самое трудолюбивое насекомое.,The bee is the most hardworking insect.,_,животные/растения,,
