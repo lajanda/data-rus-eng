@@ -1,4 +1,4 @@
-Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,Translation,Reference,Topic(s)
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,User language translation,Reference,Topic(s)
 короткий,1890,short,A,A2,"Golosa, LM",1,короткие,Inan.Acc.Plur,Я люблю носить короткие юбки.,I love to wear short skirts.,_,"мера, описание"
 короткий,1891,short,A,A2,"Golosa, LM",2,короткий,Nom.Masc.Sing,Это короткий путь до моего дома.,This is a shortcut to my house.,_,"мера, описание"
 короткий,1892,short,A,A2,"Golosa, LM",3,коротких,Gen.Plur,Я написал пару коротких рассказов.,I've written a couple of short stories.,_,"мера, описание"

@@ -1,4 +1,4 @@
-Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,Translation,Reference,Topic(s),,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,User language translation,Reference,Topic(s),,
 аппетит,1416,appetite,N.Masc.Inan,A2,"MiP, LM",1,аппетит,Acc.Sing,Пойдем в лес! Заодно аппетит нагуляем.,Let’s go to the forest! We’ll work up an appetite at the same time.,_,"еда, здоровье",,
 аппетит,1417,appetite,N.Masc.Inan,A2,"MiP, LM",2,аппетиты,Nom.Plur,"Их бизнес только начал приносить прибыль, и аппетиты сразу же выросли.","Their business just started to bring them the first profit, and their appetites grew immediately.",_,"еда, здоровье",,
 аппетит,1418,appetite,N.Masc.Inan,A2,"MiP, LM",3,аппетитом,Ins.Sing,"Только посмотрите, с каким аппетитом Вася ест суп!",Just look at Vasya eating soup with such appetite!,_,"еда, здоровье",,
