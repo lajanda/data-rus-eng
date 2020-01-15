@@ -1,4 +1,4 @@
-Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,Translation,Reference,Topic(s),,,
 продавщица,4333,saleswoman,N.Fem.Anim,B1,"Golosa, MiP, LM",1,продавщица,Nom.Sing,"«К сожалению, булочки с корицей закончились», — ответила мне продавщица.","""Unfortunately we have run out of cinnamon buns"", the saleswoman told me.",_,"люди, магазин",,,
 продавщица,4334,saleswoman,N.Fem.Anim,B1,"Golosa, MiP, LM",2,продавщицы,Nom.Plur,"В магазине мне пришлось немного подождать, потому что все продавщицы были заняты.",I had to wait a little while in the shop because all the saleswomen were busy.,_,"люди, магазин",,,
 продавщица,4335,saleswoman,N.Fem.Anim,B1,"Golosa, MiP, LM",3,продавщицей,Ins.Sing,"Я увидела, как покупатели о чём-то ругаются с продавщицей.",I saw that customers were arguing with a saleswoman about something.,_,"люди, магазин",,,

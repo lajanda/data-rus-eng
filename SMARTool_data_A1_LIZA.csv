@@ -1,4 +1,4 @@
-Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),Lesson,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,Translation,Reference,Topic(s),Lesson,
 трамвай,943,tram,N.Masc.Inan,A1,"MiP, МН",1,трамвай,Acc.Sing,Он сел в трамвай и поехал домой.,He got on the tram and went home.,_,путешествие,21,
 трамвай,944,tram,N.Masc.Inan,A1,"MiP, МН",2,трамвая,Gen.Sing,Я хочу стать водителем трамвая.,I want to become a tram driver.,_,путешествие,21,
 трамвай,945,tram,N.Masc.Inan,A1,"MiP, МН",3,трамваи,Nom.Plur,Слишком поздно. Трамваи не ходят.,It's too late. The trams aren't running.,_,путешествие,21,

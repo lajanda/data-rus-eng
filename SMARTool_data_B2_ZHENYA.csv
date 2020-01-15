@@ -1,4 +1,4 @@
-Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,Translation,Reference,Topic(s),,,
 дождичек,6543,rain,N.Masc.Inan,B2,LM,1,дождичек,Nom.Sing,Вчера шёл мелкий дождичек.,There was a light rain yesterday.,_,погода,,,
 дождливый,6544,rainy,A,B2,LM,1,дождливыми,Ins.Plur,Последние дни лета были дождливыми.,The last days of summer were rainy.,_,погода,,,
 дождливый,6545,rainy,A,B2,LM,2,дождливым,Ins.Neut.Sing,Ранним дождливым утром я вернулся из отпуска.,Early one rainy morning I came back from my vacation,_,погода,,,

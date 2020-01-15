@@ -1,4 +1,4 @@
-Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s),,,
+Target language lemma,ID,User language gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Target language example sentence,Translation,Reference,Topic(s),,,
 аббревиатура,5083,abbreviation,N.Fem.Inan,B2,LM,1,аббревиатура,Nom.Sing,Что означает эта аббревиатура?,What does that abbreviation mean?,_,"учёба/работа, общение",,,
 аббревиатура,5084,abbreviation,N.Fem.Inan,B2,LM,2,аббревиатуру,Acc.Sing,Он никогда не видел эту аббревиатуру.,He has never seen that abbreviation.,_,"учёба/работа, общение",,,
 абзац,5085,paragraph,N.Masc.Inan,B2,"Golosa, LM",1,абзацем,Ins.Sing,Подробная инструкция написана абзацем выше.,Detailed instructions are written in the paragraph above.,_,"учёба/работа, общение",,,
