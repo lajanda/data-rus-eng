@@ -171,7 +171,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 серый,1112,grey,,A,A1,"Golosa, MiP, МН",2,серый,Nom.Masc.Sing,Серый волк — герой многих русских сказок.,The grey wolf is a character in many Russian fairy-tales.,,_,описание,32,
 серый,1113,grey,,A,A1,"Golosa, MiP, МН",3,серых,Loc.Plur,Видите мужчину в серых штанах? Это мой дядя.,Do you see that man in grey pants? That’s my uncle.,,_,описание,32,
 поступать,1114,apply for entrance,,V,A1,"Golosa, MiP, МН",1,поступают,Imperf.Plur.3,Куда поступают твои одноклассники?,What universities are your classmates are applying to?,,_,учёба/работа,22,
-поступать,1115,apply for entrance,,V,A1,"Golosa, MiP, МН",2,поступать,Imperf.Inf,Мой брат в этом году поступает в МГУ.,My brother is applying to Moscow State University this year.,,_,учёба/работа,22,
+поступать,1115,apply for entrance,,V,A1,"Golosa, MiP, МН",2,поступать,Imperf.Inf,Мой брат хочет поступать в МГУ.,My brother wants to apply to Moscow State University.,,_,учёба/работа,22,
 поступать,1116,apply for entrance,,V,A1,"Golosa, MiP, МН",3,поступает,Imperf.Sing.3,"В этом году он не поступает в университет, а идёт работать.","He’s not applying to the university this year, he’s going to work.",,_,учёба/работа,22,
 факультет,1117,faculty,,N.Masc.Inan,A1,"Golosa, MiP, МН",1,факультете,Loc.Sing,На каком факультете ты учишься?,Which faculty/department of the university do you study at?,,_,учёба/работа,22,
 факультет,1118,faculty,,N.Masc.Inan,A1,"Golosa, MiP, МН",2,факультета,Gen.Sing,Это профессор с моего факультета.,This is a professor from my faculty/department.,,_,учёба/работа,22,

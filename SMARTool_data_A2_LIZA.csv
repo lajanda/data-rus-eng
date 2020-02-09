@@ -91,7 +91,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 расти,2455,grow,,V,A2,LM,2,растут,Imperf.Plur.3,Как быстро растут дети!,How fast the children grow!,,_,люди,,
 расти,2456,grow,,V,A2,LM,3,расти,Imperf.Inf,Население Москвы в ближайшие годы будет только расти.,The population of Moscow will only grow in the coming years.,,_,люди,,
 ребята,2457,guys,,N.Inan,A2,"Golosa, LM",1,ребята,Nom.Plur,"Ребята, пойдём в кино?","Guys, shall we go to the cinema?",,_,люди,,
- ,2458,guys,,N.Inan,A2,"Golosa, LM",2,ребят,Gen.Plur,Около ста ребят сдали экзамен на «отлично».,Around a hundred kids passed the exam with an A+.,,_,люди,,
+ребята,2458,guys,,N.Inan,A2,"Golosa, LM",2,ребят,Gen.Plur,Около ста ребят сдали экзамен на «отлично».,Around a hundred kids passed the exam with an A+.,,_,люди,,
 ребята,2459,guys,,N.Inan,A2,"Golosa, LM",3,ребятами,Ins.Plur,Мы с ребятами пойдём играть в футбол. Вернусь поздно!,We’re going to play football with the guys. I’ll be back late!,,_,люди,,
 режиссёр,2460,director,,N.Masc.Anim,A2,LM,1,режиссёр,Nom.Sing,Это фильм известного итальянского режиссёра.,This is a film by a famous Italian director.,,_,"люди, учёба/работа",,
 режиссёр,2461,director,,N.Masc.Anim,A2,LM,2,режиссёра,Gen.Sing,,,,_,"люди, учёба/работа",,
