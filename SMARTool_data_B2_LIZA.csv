@@ -174,7 +174,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 ножницы,8175,scissors,,N.Inan,B2,LM,3,ножниц,Gen.Plur,Мы не сможем открыть эту коробку без ножниц.,We won't be able to open this box without scissors.,,_,"одежда, свободное время",,
 номерок,8176,"label, number, coat check",,N.Masc.Inan,B2,LM,1,номерок,Acc.Sing,Работник театра забрал у посетителя пальто и дал ему номерок. ,The theatre employee took the visitor's coat and gave him a cloak-room ticket. ,,_,"учёба/работа, свободное время",,
 норвежец,8177,Norwegian,,N.Masc.Anim,B2,"LM, Поехали",1,норвежцам,Dat.Plur,В биатлоне норвежцам нет равных.,In the biathlon there is no match for the Norwegians.,,_,"люди, политика",,
-норвежец,8178,Norwegian,,N.Masc.Anim,B2,"LM, Поехали",2,норвежцев,Gen.Plur,Среди норвежцев окзаался шпион.,There was a spy among the Norwegians.,,_,"люди, политика",,
+норвежец,8178,Norwegian,,N.Masc.Anim,B2,"LM, Поехали",2,норвежцев,Gen.Plur,Среди норвежцев окзазался шпион.,There was a spy among the Norwegians.,,_,"люди, политика",,
 нормальный,8179,normal,,A,B2,LM,1,нормально,Adverb,Постоянные замечания начальника не дают нормально работать. ,The boss's endless criticism makes it impossible to work normally.,,_,"описание, внутренний мир",,
 нормальный,8180,normal,,A,B2,LM,2,нормальные,Nom.Plur,"Не звони мне, нормальные люди в это время уже спят.","Don't call me, normal people are asleep at this time.",,_,"описание, внутренний мир",,
 нормальный,8181,normal,,A,B2,LM,3,нормальный,Nom.Masc.Sing,Нормальный человек не станет рисковать жизнью без повода. ,A normal person will not risk his life for no reason.,,_,"описание, внутренний мир",,
