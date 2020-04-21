@@ -728,7 +728,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 парад,8729,parade,,N.Masc.Inan,B2,LM,2,параду,Dat.Sing,Войска начинают готовиться к параду на рассвете.,The troops are starting to prepare for the parade at dawn.,,_,"люди, политика",,
 парад,8730,parade,,N.Masc.Inan,B2,LM,3,парадами,Ins.Plur,Жители Москвы гордятся парадами на Красной площади.,The residents of Moscow are proud of the parades on Red Square.,,_,"люди, политика",,
 охотиться,8731,hunt,,V,B2,LM,1,охотятся,Imperf.Plur.3,Змеи часто охотятся ночью.,Snakes often hunt at night.,,_,животные/растения,,
-охотиться,8732,hunt,,A,B2,LM,2,охотящегося,Imperf.PresentActiveParticiple.Gen.Masc.Sing,Охотящегося тигра очень сложно заметить.,A hunting tiger is very difficult to spot.,,_,животные/растения,,
+охотиться,8732,hunt,,A,B2,LM,2,охотящегося,Imperf.PresentActiveParticiple.Acc.Masc.Sing,Охотящегося тигра очень сложно заметить.,A hunting tiger is very difficult to spot.,,_,животные/растения,,
 охотиться,8733,hunt,,V,B2,LM,3,охотиться,Imperf.Inf,"Братья любили охотиться и ловить рыбу, а не учиться.",The brothers loved to hunt and fish rather than study.,,_,животные/растения,,
 параллельный,8734,parallel,,A,B2,LM,1,параллельных,Gen.Plur,Многие верят в существование параллельных миров.,Many believe in the existence of parallel universes.,,_,"описание, мера",,
 параллельный,8735,parallel,,A,B2,LM,2,параллельная,Nom.Fem.Sing,Параллельная парковка - один из самых сложных элементов экзамена по вождению.,Parallel parking is one of the hardest parts of a driving test.,,_,"описание, мера",,
