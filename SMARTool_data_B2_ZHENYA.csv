@@ -1063,7 +1063,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 легкомысленный,7601,thoughtless,,A,B2,"LM, Кс",2,легкомысленный,Nom.Masc.Sing,Он поверхностный и легкомысленный человек.,He is a superficial and thoughtless person.,,_,"описание, люди, общение",,,
 легкомысленный,7602,thoughtless,,A,B2,"LM, Кс",3,легкомысленные,Nom.Plur,Легкомысленные обещания политика вызвали неодобрение людей.,The politician's frivolous promises were disapproved by the people.,,_,"описание, люди, общение",,,
 ломаться,7603,break,,V,B2,"MiP, LM",1,ломаясь,Imperf.Gerund,"Эти часы работают, не ломаясь.",This watch works without breaking.,,_,"животные/растения, здоровье, описание",,,
-ломаться,7604,break,,A,B2,"MiP, LM",2,ломающегося,Imperf.PresentActivieParticiple.Gen.Neut.Sing,Мы услышали треск ломающегося дерева.,We heard the crack of the breaking tree.,,_,"животные/растения, здоровье, описание",,,
+ломаться,7604,break,,A,B2,"MiP, LM",2,ломающегося,Imperf.PresentActiveParticiple.Gen.Neut.Sing,Мы услышали треск ломающегося дерева.,We heard the crack of the breaking tree.,,_,"животные/растения, здоровье, описание",,,
 ломаться,7605,break,,V,B2,"MiP, LM",3,ломаются,Imperf.Plur.3,У меня постоянно ломаются наушники.,I always break my headphones.,,_,"животные/растения, здоровье, описание",,,
 лейтенант,7606,ensign,,N.Masc.Anim,B2,LM,1,лейтенант,Nom.Sing,Старший лейтенант начал кричать на подчинённых.,The senior lieutenant began yelling at his subordinates.,,_,"люди, учёба/работа",,,
 лейтенант,7607,ensign,,N.Masc.Anim,B2,LM,2,лейтенанту,Dat.Sing,Полковник отдал приказ младшему лейтенанту.,The colonel gave the order to the young lieutenant.,,_,"люди, учёба/работа",,,
