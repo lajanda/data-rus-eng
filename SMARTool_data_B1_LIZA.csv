@@ -482,7 +482,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 трудиться,4813,work,,V,B1,LM,3,трудятся,Imperf.Plur.3,На нашем заводе ежедневно трудятся триста рабочих.,300 workers work at our factory every day.,,_,учёба/работа,,,
 трудолюбивый,4814,industrious,,A,B1,"LM, Кс",1,трудолюбивым,Ins.Masc.Sing,"Она выросла честным, трудолюбивым, самостоятельным человеком.","She grew up to be an honest, hardworking, independent person.",,_,"описание, люди, учёба/работа",,,
 трудолюбивый,4815,industrious,,A,B1,"LM, Кс",2,трудолюбивый,Inan.Acc.Masc.Sing,Я очень уважаю её трудолюбивый характер.,I respect her for her hard-working character.,,_,"описание, люди, учёба/работа",,,
-трудолюбивый,4816,industrious,,A,B1,"LM, Кс",3,трудолюбивые,Anim.Nom.Plur,Трудолюбивые крестьяне каждое утро вставали до восхода солнца. ,The hard-working peasants woke up every morning before sunrise.,,_,"описание, люди, учёба/работа",,,
+трудолюбивый,4816,industrious,,A,B1,"LM, Кс",3,трудолюбивые,Nom.Plur,Трудолюбивые крестьяне каждое утро вставали до восхода солнца. ,The hard-working peasants woke up every morning before sunrise.,,_,"описание, люди, учёба/работа",,,
 туман,4817,fog,,N.Masc.Inan,B1,LM,1,туман,Nom.Sing,"Через несколько часов туман рассеялся, и самолёты смогли вылететь из аэропорта.",A few hours later the fog cleared and planes were able to take off from the airport.,,_,погода,,,
 туман,4818,fog,,N.Masc.Inan,B1,LM,2,туманы,Nom.Plur,Как таинственны туманы над озёрами!,How mysterious are the mists over the lakes!,,_,погода,,,
 туман,4819,fog,,N.Masc.Inan,B1,LM,3,туманом,Ins.Sing,"Мы знали, что за туманом должен быть лес, но увидеть его было невозможно.","We knew there must be a forest behind the fog, but it was impossible to see it.",,_,погода,,,
