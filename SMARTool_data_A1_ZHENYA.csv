@@ -22,7 +22,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 мальчик,489,boy,,N.Masc.Anim,A1,"LM, МН",3,мальчики,Nom.Plur,Мальчики играют в футбол.,The boys are playing soccer.,,_,люди,3,
 экономический,490,economic,,A,A1,"Golosa, МН",1,экономических,Gen.Plur,Александр – кандидат экономических наук.,Alexandеr has а Ph.D. in Economics.,,_,"учёба/работа, политика",30,
 экономический,491,economic,,A,A1,"Golosa, МН",2,экономической,Gen.Fem.Sing,Главная задача сейчас – обеспечение экономической стабильности.,The main goal now is to ensure economic stability.,,_,"учёба/работа, политика",30,
-экономический,492,economic,,A,A1,"Golosa, МН",3,экономического,Gen.Masc.Sing,Министр экономического развития прокомментировал эту ситуацию.,The Minister of Economic Development has commented on this situation,,_,"учёба/работа, политика",30,
+экономический,492,economic,,A,A1,"Golosa, МН",3,экономического,Gen.Neut.Sing,Министр экономического развития прокомментировал эту ситуацию.,The Minister of Economic Development has commented on this situation,,_,"учёба/работа, политика",30,
 номер,493,room,,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,номер,Nom.Sing,Наш номер в отеле чистый и просторный.,Our hotel room is clean and spacious.,,_,жильё,17,
 номер,494,room,,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,номере,Loc.Sing,В номере есть холодильник?,Is there a refrigerator in the room?,,_,жильё,17,
 номер,495,room,,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,номеров,Gen.Plur,Мы хотим забронировать 5 одноместных номеров.,We want to book 5 single rooms.,,_,жильё,17,
