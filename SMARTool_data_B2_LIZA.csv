@@ -1331,7 +1331,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 портфель,9332,briefcase,,N.Masc.Inan,B2,LM,2,портфель,Nom.Sing,В прошлом году наш инвестиционный портфель состоял из облигаций и ценных бумаг.,"Last year, our investment portfolio consisted of bonds and securities.",,_,одежда,,
 портфель,9333,briefcase,,N.Masc.Inan,B2,LM,3,портфелем,Ins.Sing,Пётр Алексеевич всегда выходит из дома с портфелем в руке.,Pyotr Alekseevich always leaves the house with his briefcase in his hand.,,_,одежда,,
 поражать,9334,strike,,V,B2,LM,1,поражает,Imperf.Sing.3,Пейзаж на Камчатке поражает воображение.,The landscape at Kamchatka is amazing.,,_,внутренний мир,,
-поражать,9335,strike,,A,B2,LM,2,поражающие,Imperf.PresentActiveParticiple.Nom.Plur,"Новый марсоход присылает фотографии, поражающие своей чёткостью.",The new Mars rover sends strikingly clear photos.,,_,внутренний мир,,
+поражать,9335,strike,,A,B2,LM,2,поражающие,Imperf.PresentActiveParticiple.Acc.Plur,"Новый марсоход присылает фотографии, поражающие своей чёткостью.",The new Mars rover sends strikingly clear photos.,,_,внутренний мир,,
 поражать,9336,strike,,V,B2,LM,3,поражают,Imperf.Plur.3,Современные дети поражают меня своей хитростью. ,Modern children amaze me with how clever they are.,,_,внутренний мир,,
 порча,9337,spoiling,,N.Fem.Inan,B2,LM,1,порча,Nom.Sing,Порча государственного имущества карается штрафом.,Damage to state property is punishable by a fine.,,_,"здоровье, люди",,
 порча,9338,spoiling,,N.Fem.Inan,B2,LM,2,порчу,Acc.Sing,Гадалка пообещала девушке снять с неё порчу за тысячу рублей.,The fortuneteller promised the girl to remove a jinx from her for a thousand rubles.,,_,"здоровье, люди",,
