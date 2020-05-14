@@ -568,7 +568,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 отделение,8569,branch,,N.Neut.Inan,B2,LM,1,отделений,Gen.Plur,У нашего банка уже более ста отделений по всей России.,Our bank has already more than a hundred branches throughout Russia.,,_,учёба/работа,,
 отделение,8570,branch,,N.Neut.Inan,B2,LM,2,отделения,Gen.Sing,Директор Уральского отделения Российской академии наук выступил с докладом.,The Director of the Ural Branch of the Russian Academy of Sciences presented a paper.,,_,учёба/работа,,
 отделение,8571,branch,,N.Neut.Inan,B2,LM,3,отделение,Nom.Sing,На нашей улице открылось новое почтовое отделение.,A new post office has opened on our street.,,_,учёба/работа,,
-отечественный,8572,native,,A,B2,LM,1,отечественного,Gen.Masc.Sing,Президент страны должен ездить на автомобиле отечественного производства.,The president of the country must drive a domestically produced car.,,_,политика,,
+отечественный,8572,native,,A,B2,LM,1,отечественного,Gen.Neut.Sing,Президент страны должен ездить на автомобиле отечественного производства.,The president of the country must drive a domestically produced car.,,_,политика,,
 отечественный,8573,native,,A,B2,LM,2,отечественной,Gen.Fem.Sing,В годы Великой Отечественной войны погибли миллионы человек.,"During the Great Patriotic War, millions of people died.",,_,политика,,
 отечественный,8574,native,,A,B2,LM,3,отечественных,Gen.Plur,В нашем кинотеатре проходит неделя отечественных фильмов.,Our cinema is hosting a week of domestic films.,,_,политика,,
 отечество,8575,motherland,,N.Neut.Inan,B2,LM,1,отечестве,Loc.Sing,На сегодняшний день в нашем отечестве насчитывается около четырёхсот литературных премий. ,There are about four hundred literary awards in our country today.,,_,политика,,
