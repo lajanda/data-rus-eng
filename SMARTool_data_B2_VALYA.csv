@@ -1160,7 +1160,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 гнездо,6241,nest,,N.Neut.Inan,B2,LM,1,гнёзда,Acc.Plur,"Совы, например, не вьют настоящие гнёзда.","Owls, for example, do not build real nests.",,_,животные/растения,,,
 гнездо,6242,nest,,N.Neut.Inan,B2,LM,2,гнездо,Nom.Sing,"Между веток было большое гнездо, и дети пытались угадать, кто его свил.","There was a large nest between the branches, and the children tried to guess who had made it.",,_,животные/растения,,,
 гнездо,6243,nest,,N.Neut.Inan,B2,LM,3,гнезда,Gen.Sing,"Птенец, выпавший из гнезда, почти не имеет шанса выжить.",A chick that falls out of the nest has almost no chance of survival.,,_,животные/растения,,,
-гнилой,6244,rotten,,A,B2,LM,1,гнилым,Ins.Masc.Sing,Он накормил собак гнилым мясом.,He fed the dogs with rotten meat.,,_,"описание, еда",,,
+гнилой,6244,rotten,,A,B2,LM,1,гнилым,Ins.Neut.Sing,Он накормил собак гнилым мясом.,He fed the dogs with rotten meat.,,_,"описание, еда",,,
 гнилой,6245,rotten,,A,B2,LM,2,гнилая,Nom.Fem.Sing,Гнилая древесина очень своеобразно пахнет.,Rotten wood has a very specific smell.,,_,"описание, еда",,,
 гнилой,6246,rotten,,A,B2,LM,3,гнилыми,Ins.Plur,Из болота пахло гнилыми водорослями.,The swamp smelled of rotten seaweed.,,_,"описание, еда",,,
 годовщина,6247,anniversary,,N.Fem.Inan,B2,LM,1,годовщиной,Ins.Sing,Поздравляю вас с годовщиной свадьбы!,Congratulations on your wedding anniversary!,,_,время,,,
