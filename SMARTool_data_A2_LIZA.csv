@@ -320,7 +320,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 удивительный,2684,astonishing,,A,A2,LM,3,удивительная,Nom.Fem.Sing,Она удивительная девушка!,She is an amazing girl!,,_,описание,,
 удобный,2685,handy,,A,A2,LM,1,удобно,Adverb,Мне удобно работать утром.,It's convenient for me to work in the morning.,,_,"описание, жильё",,
 удобный,2686,handy,,A,A2,LM,2,удобнее,Comparative,Куда вам удобнее приехать?,Where is it better for you to come to?,,_,"описание, жильё",,
-удобный,2687,handy,,A,A2,LM,3,удобном,Loc.Masc.Sing,Мы купили дом в удобном месте.,We bought a house in a convenient location.,,_,"описание, жильё",,
+удобный,2687,handy,,A,A2,LM,3,удобном,Loc.Masc.Sing,При каждом удобном случае моя соседка заведет разговор о своём сыне.,My neighbor talks about her son every chance she gets.,,_,"описание, жильё",,
 уезжать,2688,leave,,V,A2,"Golosa, MiP, LM",1,уезжать,Imperf.Inf,Он не хотел уезжать из Москвы.,He didn't want to leave Moscow.,,_,"путешествие, транспорт",,
 уезжать,2689,leave,,V,A2,"Golosa, MiP, LM",2,уезжают,Imperf.Plur.3,Куда уезжают эти дети?,Where are those children going?,,_,"путешествие, транспорт",,
 уезжать,2690,leave,,V,A2,"Golosa, MiP, LM",3,уезжала,Imperf.Fem.Sing.Past,Она часто уезжала с работы на машине.,She often came home from work by car.,,_,"путешествие, транспорт",,
