@@ -341,7 +341,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 бесполезный,5422,useless,,A,B2,LM,3,бесполезным,Ins.Neut.Sing,Мыть машину осенью я считаю занятием бесполезным.,I find it pointless to wash my car in the fall.,,_,"описание, учёба/работа",,,
 беспомощный,5423,helpless,,A,B2,LM,1,беспомощной,Ins.Fem.Sing,Перед судом она чувствовала себя совершенно беспомощной.,In court she felt completely helpless.,,_,"описание, внутренний мир, люди",,,
 беспомощный,5424,helpless,,A,B2,LM,2,беспомощными,Ins.Plur,На фоне отца сыновья казались слабыми и беспомощными.,"Compared to their father, the sons seemed weak and helpless.",,_,"описание, внутренний мир, люди",,,
-беспомощный,5425,helpless,,A,B2,LM,3,беспомощным,Ins.Neut.Sing,В этой ситуации он ощущал себя беспомощным.,In that situation he felt helpless.,,_,"описание, внутренний мир, люди",,,
+беспомощный,5425,helpless,,A,B2,LM,3,беспомощным,Ins.Masc.Sing,В этой ситуации он ощущал себя беспомощным.,In that situation he felt helpless.,,_,"описание, внутренний мир, люди",,,
 беспорядок,5426,mess,,N.Masc.Inan,B2,"LM, МН",1,беспорядка,Gen.Sing,В комнате постоянно было ощущение беспорядка.,The room always seemed messy.,,_,"люди, жильё",,,
 беспорядок,5427,mess,,N.Masc.Inan,B2,"LM, МН",2,беспорядок,Nom.Sing,Какой беспорядок! Срочно убери!,What a mess! Clean it up immediately!,,_,"люди, жильё",,,
 беспорядок,5428,mess,,N.Masc.Inan,B2,"LM, МН",3,беспорядком,Ins.Sing,"Она чувствовала, что не сможет справиться с этим беспорядком самостоятельно.",She felt that she couldn’t deal with that mess on her own.,,_,"люди, жильё",,,
