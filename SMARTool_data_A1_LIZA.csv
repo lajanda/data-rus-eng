@@ -357,7 +357,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 паспорт,1298,passport,,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,паспорту,Dat.Sing,"По паспорту ему сорок один год, но все говорят, что больше.","According to his passport he’s 41, but everybody says he's older.",,_,"путешествие, учёба/работа",16,
 паспорт,1299,passport,,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,паспортом,Ins.Sing,Подойдите с паспортом в двадцать второй кабинет.,Go to room 22 with your passport.,,_,"путешествие, учёба/работа",16,
 студенческий,1300,student,,A,A1,МН,1,студенческий,Nom.Masc.Sing,Студенческий обед с столовой стоит сто двадцать рублей.,A student lunch at the cafeteria costs 120 roubles.,,_,"описание, учёба/работа",22,
-студенческий,1301,student,,A,A1,МН,2,студенческого,Gen.Masc.Sing,Они подошли к главному входу студенческого общежития.,They came to the main entrance of the student dormitory.,,_,"описание, учёба/работа",22,
+студенческий,1301,student,,A,A1,МН,2,студенческого,Gen.Neut.Sing,Они подошли к главному входу студенческого общежития.,They came to the main entrance of the student dormitory.,,_,"описание, учёба/работа",22,
 студенческий,1302,student,,A,A1,МН,3,студенческих,Gen.Plur,Он написал статью для сборника студенческих работ.,He wrote an article for an anthology of student works.,,_,"описание, учёба/работа",22,
 овощ,1303,vegetable,,N.Masc.Inan,A1,МН,1,овощи,Acc.Plur,Какие овощи любят ваши дети?,What vegetables do your children like?,,_,"еда, магазин",23,
 овощ,1304,vegetable,,N.Masc.Inan,A1,МН,2,овощей,Gen.Plur,Мой муж умеет готовить только салат из овощей и яичницу.,The only things my husband knows how to make are vegetable salad and scrambled eggs.,,_,"еда, магазин",23,
