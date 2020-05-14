@@ -1195,7 +1195,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 покупка,9196,purchase,,N.Fem.Inan,B2,LM,2,покупку,Acc.Sing,Молодой человек взял кредит на покупку квартиры.,The young man took a loan to buy an apartment.,,_,магазин,,
 покупка,9197,purchase,,N.Fem.Inan,B2,LM,3,покупке,Loc.Sing,При покупке квартиры вы получаете ковёр в подарок. ,When you buy an apartment you get a carpet as a gift.,,_,магазин,,
 познавать,9198,explore,,V,B2,LM,1,познавать,Imperf.Inf,Почти с самого рождения ребёнок начинает познавать окружающий мир.,A child begins to learn about the world almost from the moment of birth.,,_,внутренний мир,,
-познавать,9199,explore,,A,B2,LM,2,познающего,Imperf.PresentActiveParticiple.Gen.Neut.Sing,"Всегда приятно встретить человека, познающего мир.",It is always nice to meet a person who is interested in the world.,,_,внутренний мир,,
+познавать,9199,explore,,A,B2,LM,2,познающего,Imperf.PresentActiveParticiple.Amin.Acc.Masc.Sing,"Всегда приятно встретить человека, познающего мир.",It is always nice to meet a person who is interested in the world.,,_,внутренний мир,,
 полдень,9200,noon,,N.Masc.Inan,B2,LM,1,полдень,Acc.Sing,Семинар закончился в полдень.,The seminar ended at noon.,,_,время,,
 полдень,9201,noon,,N.Masc.Inan,B2,LM,2,полудня,Gen.Sing,Давай встретимся в музее около полудня.,Let's meet at the museum around noon.,,_,время,,
 полдень,9202,noon,,N.Masc.Inan,B2,LM,3,полудню,Dat.Sing,К полудню все проснулись.,Everyone woke up by noon.,,_,время,,
