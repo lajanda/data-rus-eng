@@ -352,7 +352,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 запад,1768,West,,N.Masc.Inan,A2,"Golosa, MiP, LM",3,западом,Ins.Sing,Диалог Востока с Западом очень важен. ,The dialogue of East and West is very important.,,_,"путешествие, политика",,"This sentence contains both difficult vocabulary and syntax, too hard for A2"
 западный,1769,western,,A,A2,LM,1,западных,Gen.Plur,Счастливый конец — особенность многих западных фильмов.,A happy ending is a feature of many western movies.,,_,"описание, путешествие, погода",,
 западный,1770,western,,A,A2,LM,2,западные,Nom.Plur,Западные регионы страны пострадали от урагана.,Western regions of the country were damaged by the hurricane.,,_,"описание, путешествие, погода",,
-западный,1771,western,,A,A2,LM,3,западном,Loc.Masc.Sing,Долина Смерти является самым низким местом в западном полушарии.,Death Valley is the lowest place in the western hemisphere.,,_,"описание, путешествие, погода",,
+западный,1771,western,,A,A2,LM,3,западном,Loc.Neut.Sing,Долина Смерти является самым низким местом в западном полушарии.,Death Valley is the lowest place in the western hemisphere.,,_,"описание, путешествие, погода",,
 заплатить,1772,pay,,V,A2,"MiP, LM",1,заплатить,Perf.Inf,"Уважаемые пассажиры, не забудьте заплатить за проезд.","Dear passengers, please don’t forget to pay for your trip.",,_,магазин,,
 заплатить,1773,pay,,V,A2,"MiP, LM",2,заплатил,Perf.Masc.Sing.Past,Он заплатил четыреста рублей за билет в кино.,He paid 400 roubles for a movie ticket.,,_,магазин,,
 заплатить,1774,pay,,V,A2,"MiP, LM",3,заплатили,Perf.Plur.Past,Вы уже заплатили за поездку?,Have you already paid for your ride?,,_,магазин,,
