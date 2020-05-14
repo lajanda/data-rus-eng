@@ -312,7 +312,7 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 покупать,776,buy,,V,A1,"Golosa, MiP, LM, МН",2,покупали,Imperf.Plur.Past,Этим летом мы покупали много фруктов.,This summer we bought a lot of fruit.,,_,магазин,9,
 покупать,777,buy,,V,A1,"Golosa, MiP, LM, МН",3,покупает,Imperf.Sing.3,Вася всегда покупает чипсы и пиво после работы.,Vasya always buy chips and beer after work.,,_,магазин,9,
 родственник,778,relative,,N.Masc.Anim,A1,"Golosa, MiP, МН",1,родственники,Nom.Plur,У меня есть родственники в Санкт-Петербурге.,I have relatives in St. Petersburg.,,_,люди,15,
-родственник,779,relative,,N.Masc.Anim,A1,"Golosa, MiP, МН",2,родственников,Gen.Plur,Я люблю своих родственников и часто их навещаю.,I love my relatives and visit them often.,,_,люди,15,
+родственник,779,relative,,N.Masc.Anim,A1,"Golosa, MiP, МН",2,родственников,Acc.Plur,Я люблю своих родственников и часто их навещаю.,I love my relatives and visit them often.,,_,люди,15,
 родственник,780,relative,,N.Masc.Anim,A1,"Golosa, MiP, МН",3,родственник,Nom.Sing,Мой дальний родственник живёт в Германии.,My distant relative lives in Germany.,,_,люди,15,
 погода,781,weather,,N.Fem.Inan,A1,"MiP, LM, МН",1,погода,Nom.Sing,"Сегодня плохая погода, давай пойдём гулять завтра.","The weather is bad today, let's go for a walk tomorrow.",,_,погода,13,
 погода,782,weather,,N.Fem.Inan,A1,"MiP, LM, МН",2,погоды,Gen.Sing,Ты посмотрел прогноз погоды на сегодня?,Have you looked at the weather forecast for today?,,_,погода,13,
