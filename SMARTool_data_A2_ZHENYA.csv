@@ -87,9 +87,9 @@ Target language lemma,ID,User language gloss,English gloss,POS,Level,Word source
 модный,1975,fashionable,,A,A2,"Golosa, LM",1,модным,Ins.Masc.Sing,На вечеринке я познакомилась с модным дизайнером одежды.,I met a fashion designer at the party.,,_,"описание, магазин, одежда"
 модный,1976,fashionable,,A,A2,"Golosa, LM",2,модные,Inan.Acc.Plur,Эти модные туфли я купила на распродаже.,I bought these fashionable shoes on sale.,,_,"описание, магазин, одежда"
 модный,1977,fashionable,,A,A2,"Golosa, LM",3,модное,Inan.Acc.Neut.Sing,Где ты нашла это модное платье?,Where did you find this fashionable dress?,,_,"описание, магазин, одежда"
-молодежь,1978,young people,,N.Fem.Inan,A2,LM,1,молодёжи,Gen.Sing,Рэп популярен среди молодёжи.,Rap is popular among young people.,,_,люди
-молодежь,1979,young people,,N.Fem.Inan,A2,LM,2,молодёжь,Nom.Sing,Молодёжь заполнила весь клуб.,Young people filled the whole club.,,_,люди
-молодежь,1980,young people,,N.Fem.Inan,A2,LM,3,молодёжью,Ins.Sing,Мэр города устроил встречу с молодёжью.,The mayor of the city arranged a meeting with the young people.,,_,люди
+молодёжь,1978,young people,,N.Fem.Inan,A2,LM,1,молодёжи,Gen.Sing,Рэп популярен среди молодёжи.,Rap is popular among young people.,,_,люди
+молодёжь,1979,young people,,N.Fem.Inan,A2,LM,2,молодёжь,Nom.Sing,Молодёжь заполнила весь клуб.,Young people filled the whole club.,,_,люди
+молодёжь,1980,young people,,N.Fem.Inan,A2,LM,3,молодёжью,Ins.Sing,Мэр города устроил встречу с молодёжью.,The mayor of the city arranged a meeting with the young people.,,_,люди
 молодец,1981,well done,,N.Masc.Anim,A2,LM,1,молодец,Nom.Sing,Ты молодец!,Well done!,,_,"люди, описание"
 молодец,1982,well done,,N.Masc.Anim,A2,LM,2,молодцы,Nom.Plur,"Актёры – молодцы, мне очень понравился спектакль!","The actors did a great job, I really liked the show.",,_,"люди, описание"
 молодец,1983,well done,,N.Masc.Anim,A2,LM,3,молодца,Gen.Sing,,,,_,"люди, описание"
